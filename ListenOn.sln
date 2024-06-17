@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListenOn", "ListenOn\ListenOn.csproj", "{DA08A908-5A73-4B2A-B4A2-769C61270261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA08A908-5A73-4B2A-B4A2-769C61270261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA08A908-5A73-4B2A-B4A2-769C61270261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA08A908-5A73-4B2A-B4A2-769C61270261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA08A908-5A73-4B2A-B4A2-769C61270261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E86DF1B2-BC33-4104-B49E-ED01314BE0A1}
+	EndGlobalSection
+EndGlobal
